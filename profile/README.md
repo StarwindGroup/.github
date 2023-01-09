@@ -1,2 +1,2 @@
-# ChronoKits
+# DevChrono
 Build some good plugins.
